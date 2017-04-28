@@ -24,13 +24,20 @@ Concurrent Systems (System Description)](http://s3.amazonaws.com/academia.edu.do
 
 - Bruno Blanchet, [Security protocols: from linear to classical logic by abstract interpretation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.123.7015&rep=rep1&type=pdf), 2005
 
+- Malika. Medjoudj, Sarhane. Khalfaoui, Hamid. Demmou, Robert. Valette, [A method for deriving feared scenarios in hybrid systems](http://valetterobert.free.fr/papers.pri/reliability.pri/esrel04.pdf), 2004
+
 - Durgin Nancya, Lincoln Patrickb, Mitchell Johnc, Scedrov Andred, [Multiset rewriting and the complexity of bounded security protocols](http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA572223), 2004
 
 - Marco Bozzano, Giorgio Delzanno, Maurizio Martelli, [Model Checking Linear Logic Specifications](https://arxiv.org/pdf/cs/0309003.pdf), 2003
 
+- Dale Miller, [Encryption as an abstract data-type: An extended abstract](http://www.sciencedirect.com/science/article/pii/S1571066104808417), 2003
+
 - Marco Bozzano, Giorgio Delzanno, [Automated protocol verification in linear logic](https://pdfs.semanticscholar.org/0e7c/6896fddaddd63ccaa1821cbe9bae080c1b07.pdf), 2002
 
 - I. Cervesato, N.A. Durgin, P.D. Lincoln, J.C. Mitchell, A. Scedrov, [A meta-notation for protocol analysis](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1043&context=compsci), 2002
+
+- Hamid Demmou, Sarhane Khalfaoui1, Nicolas Rivière1, Edwige Guilhem, [Extracting critical scenarios from a Petri net model
+using linear logic](https://pdfs.semanticscholar.org/6eef/6f74c212b5b958986290e22ac3c5bcf5762d.pdf), 2002
 
 - JC Mitchell, [Multiset Rewriting and Security Protocol Analysis](http://www.academia.edu/download/30389796/sophie_tison_rewriting_techniques_and_applicati.pdf#page=29), 2002
 
@@ -55,6 +62,8 @@ Concurrent Systems (System Description)](http://s3.amazonaws.com/academia.edu.do
 
 Affine Logic
 ------------
+
+- Michele Bugliesi, Stefano Calzavara, Fabienne Eigner, and Matteo Maffei, [Logical Foundations of Secure Resource Management in Protocol Implementations](http://www.dsi.unive.it/~michele/Papers/post13.pdf), 2013
 
 - Marco Bozzanoa, Giorgio Delzannob, [Automatic verification of secrecy properties for
 linear logic specifications of cryptographic protocols](http://www.sciencedirect.com/science/article/pii/S0747717104000628), 2004
