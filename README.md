@@ -3,6 +3,8 @@ Linear Logic
 
 - Vivek Nigam, [A framework for linear authorization logics](http://www.sciencedirect.com/science/article/pii/S030439751400111X), 2014
 
+- Bernardo Toninho, Lu\'{\i}s Caires, Frank Pfenning, [Dependent Session Types via Intuitionistic Linear Type Theory](http://repository.cmu.edu/cgi/viewcontent.cgi?article=3708&context=compsci), 2011
+
 - Xia Zhao,  Enjie Liu,  Gordon J. Clapworthy, [(Paywall) A Two-Stage RESTful Web Service Composition Method Based on Linear Logic](http://ieeexplore.ieee.org/abstract/document/6061100/), 2011
 
 - Iliano Cervesato, Andre Scedrov, [Relating state-based and process-based concurrency through linear logic (full-version)](http://www.sciencedirect.com/science/article/pii/S089054010900100X), 2009
@@ -30,6 +32,8 @@ Concurrent Systems (System Description)](http://s3.amazonaws.com/academia.edu.do
 
 - Marco Bozzano, Giorgio Delzanno, Maurizio Martelli, [Model Checking Linear Logic Specifications](https://arxiv.org/pdf/cs/0309003.pdf), 2003
 
+- Koji Hasebe, Mitsuhiro Okada, [(Paywall) A Logical Verification Method for Security Protocols Based on Linear Logic and BAN Logic](https://link.springer.com/chapter/10.1007/3-540-36532-X_24), 2003
+
 - Dale Miller, [Encryption as an abstract data-type: An extended abstract](http://www.sciencedirect.com/science/article/pii/S1571066104808417), 2003
 
 - Marco Bozzano, Giorgio Delzanno, [Automated protocol verification in linear logic](https://pdfs.semanticscholar.org/0e7c/6896fddaddd63ccaa1821cbe9bae080c1b07.pdf), 2002
@@ -45,6 +49,8 @@ using linear logic](https://pdfs.semanticscholar.org/6eef/6f74c212b5b958986290e2
 
 - Iliano Cervesato, [Typed Multiset Rewriting Specifications of Security Protocols](http://www.sciencedirect.com/science/article/pii/S1571066105800350), 2001
 
+- R. Chadha, M. Kanovich, A. Scedrov, [Inductive Methods and Contract-Signing Protocols](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.59.1348&rep=rep1&type=pdf), 2001
+
 - Steve Zdancewic, Andrew C. Myers, [Secure Information Flow and CPS](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.69.9981&rep=rep1&type=pdf), 2001
 
 - Kamel AdiMourad, Debbabi, Mohamed Mejri, [(Paywall) A New Logic for Electronic Commerce Protocols](https://link.springer.com/chapter/10.1007%2F3-540-45499-3_35?LI=true), 2000
@@ -52,6 +58,8 @@ using linear logic](https://pdfs.semanticscholar.org/6eef/6f74c212b5b958986290e2
 - Iliano Cervesato, N. Durgin, J. Mitchell, P. Lincoln, A. Scedrov, [Relating Strands and Multiset Rewriting for Security Protocol Analysis](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1040&context=compsci), 2000
 
 - Iliano Cervesato, N. Durgin, M. Kanovich, A. Scedrov, [Interpreting Strands in Linear Logic](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1038&context=compsci), 2000
+
+- Kohei Honda, Vasco Vasconcelos, Nobuko Yoshida, [Secure Information Flow as Typed Process Behaviour](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.42.5442&rep=rep1&type=pdf), 2000
 
 - P. Malacaria, C. Hankin, [Non-deterministic games and program analysis: An application to security](http://ieeexplore.ieee.org/abstract/document/782639/), 1999
 
