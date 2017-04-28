@@ -29,7 +29,7 @@ Linear Logic
 
 - JC Mitchell, [Multiset Rewriting and Security Protocol Analysis](Multiset rewriting and security protocol analysis), 2002
 
-Steve Zdancewic, Andrew C. Myers, [Secure Information Flow via Linear Continuations](http://www.cis.upenn.edu/~stevez/papers/ZM02.pdf), 2002
+- Steve Zdancewic, Andrew C. Myers, [Secure Information Flow via Linear Continuations](http://www.cis.upenn.edu/~stevez/papers/ZM02.pdf), 2002
 
 - Iliano Cervesato, [Typed Multiset Rewriting Specifications of Security Protocols](http://www.sciencedirect.com/science/article/pii/S1571066105800350), 2001
 
