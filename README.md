@@ -27,7 +27,7 @@ Linear Logic
 
 - I. Cervesato, N.A. Durgin, P.D. Lincoln, J.C. Mitchell, A. Scedrov, (A meta-notation for protocol analysis)[http://repository.cmu.edu/cgi/viewcontent.cgi?article=1043&context=compsci], 2002
 
-- JC Mitchell, [Multiset Rewriting and Security Protocol Analysis](Multiset rewriting and security protocol analysis), 2002
+- JC Mitchell, [Multiset Rewriting and Security Protocol Analysis](http://www.academia.edu/download/30389796/sophie_tison_rewriting_techniques_and_applicati.pdf#page=29), 2002
 
 - Steve Zdancewic, Andrew C. Myers, [Secure Information Flow via Linear Continuations](http://www.cis.upenn.edu/~stevez/papers/ZM02.pdf), 2002
 
