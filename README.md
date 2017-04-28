@@ -3,9 +3,14 @@ Linear Logic
 
 - Vivek Nigam, [A framework for linear authorization logics](http://www.sciencedirect.com/science/article/pii/S030439751400111X), 2014
 
+- Xia Zhao,  Enjie Liu,  Gordon J. Clapworthy, [(Paywall) A Two-Stage RESTful Web Service Composition Method Based on Linear Logic](http://ieeexplore.ieee.org/abstract/document/6061100/), 2011
+
 - Iliano Cervesato, Andre Scedrov, [Relating state-based and process-based concurrency through linear logic (full-version)](http://www.sciencedirect.com/science/article/pii/S089054010900100X), 2009
 
 - Henry DeYoung, Frank Pfenning, [Reasoning about the Consequences of Authorization Policies in a Linear Epistemic Logic](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2204&context=compsci), 2009
+
+- Anders Schack-Nielsen, Carsten Sch¨urmann, [Celf – A Logical Framework for Deductive and
+Concurrent Systems (System Description)](http://s3.amazonaws.com/academia.edu.documents/30680437/Alessandro_Armando_Automated_Reasoning_4_conf_I.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1493382889&Signature=ehbJLM9Mq7XsU6%2FGO4nHDH1jgYM%3D&response-content-disposition=inline%3B%20filename%3DIndividual_reuse_in_description_logic_re.pdf#page=331), 2009
 
 - Alexandru Baltag, Bob Coecke, Mehrnoosh Sadrzadeh, [Epistemic actions as resources](https://arxiv.org/pdf/math/0608166.pdf), 2007
 
@@ -34,6 +39,8 @@ Linear Logic
 - Iliano Cervesato, [Typed Multiset Rewriting Specifications of Security Protocols](http://www.sciencedirect.com/science/article/pii/S1571066105800350), 2001
 
 - Steve Zdancewic, Andrew C. Myers, [Secure Information Flow and CPS](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.69.9981&rep=rep1&type=pdf), 2001
+
+- Kamel AdiMourad, Debbabi, Mohamed Mejri, [(Paywall) A New Logic for Electronic Commerce Protocols](https://link.springer.com/chapter/10.1007%2F3-540-45499-3_35?LI=true), 2000
 
 - Iliano Cervesato, N. Durgin, J. Mitchell, P. Lincoln, A. Scedrov, [Relating Strands and Multiset Rewriting for Security Protocol Analysis](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1040&context=compsci), 2000
 
