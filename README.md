@@ -43,8 +43,8 @@ Linear Logic
 
 - Max I. Kanovich, Mitsuhiro Okada, Andre Scedrov, [Specifying Real-Time Finite-State Systems in Linear Logic Extended Abstract](http://www.sciencedirect.com/science/article/pii/S1571066105805912), 1998
 
-- Andrew Barber, Philippa Gardner, Masahito Hasegawa, Gordon Plotkin, (From action calculi to linear logic
-)[https://www.era.lib.ed.ac.uk/bitstream/handle/1842/217/ActCalc_LinLog.pdf?sequence=1&isAllowed=y], 1997
+- Andrew Barber, Philippa Gardner, Masahito Hasegawa, Gordon Plotkin, [From action calculi to linear logic
+](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/217/ActCalc_LinLog.pdf?sequence=1&isAllowed=y), 1997
 
 Affine Logic
 ------------
