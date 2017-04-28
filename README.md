@@ -5,6 +5,8 @@ Linear Logic
 
 - Bernardo Toninho, Lu\'{\i}s Caires, Frank Pfenning, [Dependent Session Types via Intuitionistic Linear Type Theory](http://repository.cmu.edu/cgi/viewcontent.cgi?article=3708&context=compsci), 2011
 
+- Frank Pfenning, Luis Caires, Bernardo Toninho, [Proof-Carrying Code in a Session-Typed Process Calculus](http://repository.cmu.edu/cgi/viewcontent.cgi?article=3706&context=compsci), 2011
+
 - Xia Zhao,  Enjie Liu,  Gordon J. Clapworthy, [(Paywall) A Two-Stage RESTful Web Service Composition Method Based on Linear Logic](http://ieeexplore.ieee.org/abstract/document/6061100/), 2011
 
 - Iliano Cervesato, Andre Scedrov, [Relating state-based and process-based concurrency through linear logic (full-version)](http://www.sciencedirect.com/science/article/pii/S089054010900100X), 2009
@@ -26,11 +28,17 @@ Concurrent Systems (System Description)](http://s3.amazonaws.com/academia.edu.do
 
 - Bruno Blanchet, [Security protocols: from linear to classical logic by abstract interpretation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.123.7015&rep=rep1&type=pdf), 2005
 
+- Iliano Cervesato, [The Logical Meeting Point of Multiset Rewriting and Process Algebra: Progress Report](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1017&context=compsci), 2004
+
 - Malika. Medjoudj, Sarhane. Khalfaoui, Hamid. Demmou, Robert. Valette, [A method for deriving feared scenarios in hybrid systems](http://valetterobert.free.fr/papers.pri/reliability.pri/esrel04.pdf), 2004
 
 - Durgin Nancya, Lincoln Patrickb, Mitchell Johnc, Scedrov Andred, [Multiset rewriting and the complexity of bounded security protocols](http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA572223), 2004
 
+- Stefano Bistarelli, Iliano Cervesato, Gabriele Lenzini, Fabio Martinelli, [Relating Process Algebras and Multiset Rewriting for Security Protocol Analysis](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1029&context=compsci), 2003
+
 - Marco Bozzano, Giorgio Delzanno, Maurizio Martelli, [Model Checking Linear Logic Specifications](https://arxiv.org/pdf/cs/0309003.pdf), 2003
+
+- I. Cervesato, N. Durgin, P. Lincoln, J. Mitchell, A. Scedrov, [A Comparison between Strand Spaces and Multiset Rewriting for Security Protocol Analysis](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1030&context=compsci), 2003
 
 - Koji Hasebe, Mitsuhiro Okada, [(Paywall) A Logical Verification Method for Security Protocols Based on Linear Logic and BAN Logic](https://link.springer.com/chapter/10.1007/3-540-36532-X_24), 2003
 
@@ -44,6 +52,8 @@ Concurrent Systems (System Description)](http://s3.amazonaws.com/academia.edu.do
 using linear logic](https://pdfs.semanticscholar.org/6eef/6f74c212b5b958986290e22ac3c5bcf5762d.pdf), 2002
 
 - JC Mitchell, [Multiset Rewriting and Security Protocol Analysis](http://www.academia.edu/download/30389796/sophie_tison_rewriting_techniques_and_applicati.pdf#page=29), 2002
+
+- Nobuko Yoshida, Kohei Honda, Martin Berger, [Linearity and Bisimulation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.101.7120&rep=rep1&type=pdf), 2002
 
 - Steve Zdancewic, Andrew C. Myers, [Secure Information Flow via Linear Continuations](http://www.cis.upenn.edu/~stevez/papers/ZM02.pdf), 2002
 
@@ -65,13 +75,16 @@ using linear logic](https://pdfs.semanticscholar.org/6eef/6f74c212b5b958986290e2
 
 - Max I. Kanovich, Mitsuhiro Okada, Andre Scedrov, [Specifying Real-Time Finite-State Systems in Linear Logic Extended Abstract](http://www.sciencedirect.com/science/article/pii/S1571066105805912), 1998
 
-- Andrew Barber, Philippa Gardner, Masahito Hasegawa, Gordon Plotkin, [From action calculi to linear logic
-](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/217/ActCalc_LinLog.pdf?sequence=1&isAllowed=y), 1997
+- Andrew Barber, Philippa Gardner, Masahito Hasegawa, Gordon Plotkin, [From action calculi to linear logic](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/217/ActCalc_LinLog.pdf?sequence=1&isAllowed=y), 1997
+
+- Clifford Sheung-Ching Tse, [The Design and Implementation of an Actor Language Based on Linear Logic](http://www.tseco.com/cliff/mit-msc-thesis.pdf), 1993
 
 Affine Logic
 ------------
 
 - Michele Bugliesi, Stefano Calzavara, Fabienne Eigner, and Matteo Maffei, [Logical Foundations of Secure Resource Management in Protocol Implementations](http://www.dsi.unive.it/~michele/Papers/post13.pdf), 2013
+
+- Michele Bugliesi, Stefano Calzavara, Fabienne Eigner, Matteo Maffei, [Resource-aware Authorization Policies for Statically Typed Cryptographic Protocols](https://www.sps.cs.uni-saarland.de/affine-spi/resources/long_version_csf.pdf), 2011
 
 - Marco Bozzanoa, Giorgio Delzannob, [Automatic verification of secrecy properties for
 linear logic specifications of cryptographic protocols](http://www.sciencedirect.com/science/article/pii/S0747717104000628), 2004
