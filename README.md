@@ -21,11 +21,11 @@ Linear Logic
 
 - Durgin Nancya, Lincoln Patrickb, Mitchell Johnc, Scedrov Andred, [Multiset rewriting and the complexity of bounded security protocols](http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA572223), 2004
 
-- Marco Bozzano, Giorgio Delzanno, Maurizio Martelli, [Model Checking Linear Logic Specifications](https://arxiv.org/pdf/cs/0309003.pdf], 2003
+- Marco Bozzano, Giorgio Delzanno, Maurizio Martelli, [Model Checking Linear Logic Specifications](https://arxiv.org/pdf/cs/0309003.pdf), 2003
 
 - Marco Bozzano, Giorgio Delzanno, [Automated protocol verification in linear logic](https://pdfs.semanticscholar.org/0e7c/6896fddaddd63ccaa1821cbe9bae080c1b07.pdf), 2002
 
-- I. Cervesato, N.A. Durgin, P.D. Lincoln, J.C. Mitchell, A. Scedrov, (A meta-notation for protocol analysis)[http://repository.cmu.edu/cgi/viewcontent.cgi?article=1043&context=compsci], 2002
+- I. Cervesato, N.A. Durgin, P.D. Lincoln, J.C. Mitchell, A. Scedrov, [A meta-notation for protocol analysis](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1043&context=compsci), 2002
 
 - JC Mitchell, [Multiset Rewriting and Security Protocol Analysis](http://www.academia.edu/download/30389796/sophie_tison_rewriting_techniques_and_applicati.pdf#page=29), 2002
 
